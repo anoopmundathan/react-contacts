@@ -4,12 +4,16 @@
   "private": true,
   "dependencies": {
     "escape-string-regexp": "1.0.5",
+    "express": "4.15.4",
     "form-serialize": "^0.7.2",
     "prop-types": "15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-router-dom": "4.1.2",
     "sort-by": "1.2.0"
+  },
+  "engines": {
+    "node": "v8.0.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
